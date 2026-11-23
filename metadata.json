@@ -1,0 +1,6 @@
+{
+  "name": "HIS Pharmacy Kafka Service",
+  "description": "Spring Boot 3.3.5 / Java 21 Kafka backend for partitioned medicine order events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
